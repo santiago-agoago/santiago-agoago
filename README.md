@@ -1,3 +1,3 @@
-Santiago
+Scholar at UNICAMP, Brazil
 
-Music with Python
+I make music and art with Pyhton, Pure Data and Processing
